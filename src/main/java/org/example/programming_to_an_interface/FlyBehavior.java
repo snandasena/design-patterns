@@ -1,4 +1,4 @@
-package org.example.programming.to.an.it_n_face;
+package org.example.programming_to_an_interface;
 
 public interface FlyBehavior {
 
